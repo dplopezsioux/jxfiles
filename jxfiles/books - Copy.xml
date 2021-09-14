@@ -1,0 +1,10 @@
+<?xml version="1.0"?>  
+<employee  
+xmlns="http://www.javatpoint.com"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://www.javatpoint.com employee.xsd">  
+  
+  <firstname>123123</firstname>  
+  <lastname>jaiswal</lastname>  
+  <email>v12312imal@javatpoint.com</email>  
+</employee>  

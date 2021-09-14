@@ -1,0 +1,17 @@
+{
+  "name": "UPWORK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.6.3",
+    "xml2js": "^0.4.23",
+    "xsd-schema-validator": "^0.7.0"
+  }
+}
